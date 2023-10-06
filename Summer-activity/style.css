@@ -1,0 +1,14 @@
+h1 {
+    color: olive;
+    font-size: 50px;
+}
+
+ul {
+    color: rgb(17, 158, 158);
+    font-weight: bold;
+}
+
+p {
+    color: #300030;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
